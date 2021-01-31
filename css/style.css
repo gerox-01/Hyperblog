@@ -1,12 +1,12 @@
 body{
     color:rgb(15, 157, 201);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
     text-align: center;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-#container
+.container
 {
     width: 70%;
     padding: 1rem;
@@ -14,7 +14,7 @@ body{
     border: 1px solid #000;
     margin: 0 auto;
 }
-#container h1{
+.container h1{
     font-size: 20px;
 }
 /**/
