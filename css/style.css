@@ -45,8 +45,16 @@ p{
     font-weight: normal;
     font-size: 0.8rem;
 }
-.post{
+.footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+    width: 70%;
     padding: 1rem;
-    line-height: 2rem;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 0 auto;
 }
+
 /*www.cssmatic.com*/
