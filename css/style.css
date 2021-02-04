@@ -30,5 +30,12 @@ body{
     font-weight: normal;
     font-size: 0.8rem;
 }
+.footer{
+    width: 70%;
+    padding: 1rem;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
 
 /*www.cssmatic.com*/
